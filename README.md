@@ -47,7 +47,7 @@ Determine the city with the highest VAT percentage.
 
 . SQL 
 
-📊 Key Insights
+## 📊 Key Insights
 
 ## Product Analysis:
 
