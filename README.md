@@ -1,5 +1,7 @@
 # 📌 Amazon :- Sales Analysis
 
+![Amazon logo](https://github.com/ritik168/Amazon---Sales-Analysis/blob/main/amazon.webp)
+
 ## 🎯 Objective
 
 The data consists of sales record of three cities/branch in Myanmar 	which are Naypyitaw, Yangon, Mandalay which took place in first 	quarter of year 2019 . The data consists of 1000 rows and 17 columns.
