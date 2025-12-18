@@ -1,12 +1,19 @@
-# 📌 Amazon :- Sales Analysis
+# Amazon Sales Performance Analysis using SQL
 
 ![Amazon logo](https://github.com/ritik168/Amazon---Sales-Analysis/blob/main/amazon.webp)
+
+
+## 📌 Project Title
+
+Amazon Revenue & Order Analysis using SQL
+
 
 ## 🎯 Objective
 
 The data consists of sales record of three cities/branch in Myanmar 	which are Naypyitaw, Yangon, Mandalay which took place in first 	quarter of year 2019 . The data consists of 1000 rows and 17 columns.
 
 The major aim of this project is to gain insight into the sales data of 	Amazon to understand the different factors that affect sales of the 	different branches.
+
 
 ## 📍 Business Problem
 
@@ -47,9 +54,11 @@ Determine the city with the highest VAT percentage.
 
 . SQL 
 
+
 ## 📊 Key Insights
 
-## Product Analysis:
+
+## (1).Product Analysis:
 
 Highest Sales Product Line: Electronic Accessories (Units Sold:971)
 
@@ -60,7 +69,7 @@ Lowest Sales Product Line: Health and Beauty (Unit Sold: 854)
 Lowest Revenue Product Line: Health and Beauty ($ 49193.84)
 
 
-## Sales Analysis:
+## (2).Sales Analysis:
 
 Month With Highest Revenue: January ($ 116292.11
 
@@ -74,7 +83,8 @@ Peak Sales Time Of Day: Afternoon
 
 Peak Sales Day Of Week: Saturday
 
-## Customer Analysis:
+
+## (3).Customer Analysis:
 
 Most Predominant Gender: 
 
