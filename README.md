@@ -104,4 +104,35 @@ Sales Male: 2641 units
 
 Sales Female: 2869 units
 
+
+## 🛠️ Tools Used
+
+MySQL / PostgreSQL – Data querying and analysis
+
+SQL – Writing complex queries
+
+DB Browser / pgAdmin / MySQL Workbench – Query execution
+
+Git & GitHub – Version control and project hosting
+
+MS Excel (Optional) – Data review & validation
+
+
+## 🧠 Skills Used
+
+Data Analysis using SQL
+
+Business Problem Solving
+
+Joins, Subqueries & CTEs
+
+Aggregate Functions (SUM, AVG, COUNT)
+
+Filtering & Sorting (WHERE, GROUP BY, HAVING)
+
+Window Functions
+
+## Business Recommendations
+
+
 ## Project End.
