@@ -132,7 +132,8 @@ Filtering & Sorting (WHERE, GROUP BY, HAVING)
 
 Window Functions
 
-## Business Recommendations
+
+## 📌 Business Recommendations
 
 
 ## Project End.
